@@ -111,5 +111,19 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="respond" level="application" />
+    <orderEntry type="library" name="html5shiv" level="application" />
+    <orderEntry type="library" name="admin-lte" level="application" />
+    <orderEntry type="library" name="datatables" level="application" />
+    <orderEntry type="library" name="leaflet" level="application" />
+    <orderEntry type="library" name="timetablejs" level="application" />
+    <orderEntry type="library" name="@sweetalert2/theme-default" level="application" />
+    <orderEntry type="library" name="leaflet.markercluster" level="application" />
+    <orderEntry type="library" name="leaflet-control-geocoder" level="application" />
+    <orderEntry type="library" name="@fonticonpicker/fonticonpicker" level="application" />
+    <orderEntry type="library" name="overlayscrollbars" level="application" />
+    <orderEntry type="library" name="iCheck" level="application" />
+    <orderEntry type="library" name="leaflet-timedimension" level="application" />
+    <orderEntry type="library" name="jquery-3.2.1.slim" level="application" />
   </component>
 </module>

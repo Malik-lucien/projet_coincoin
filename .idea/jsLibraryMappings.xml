@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@fonticonpicker/fonticonpicker, @sweetalert2/theme-default, admin-lte, datatables, html5shiv, iCheck, jquery-3.2.1.slim, leaflet, leaflet-control-geocoder, leaflet-timedimension, leaflet.markercluster, overlayscrollbars, respond, timetablejs}" />
+  </component>
+</project>
